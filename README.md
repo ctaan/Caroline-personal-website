@@ -5,4 +5,8 @@ Hi there! Welcome. I am currently learning the world of html and css. I am putti
 The website has been tested in Desktop: Microsoft Edge v95, Internet Explorer v10 and Chrome v94. It has been successfully tested and passed for stated browsers.
 The wesbite has been tested in Mobile: IOS Chrome v94. Cosmestic Bug identified and is under investigation. 
 
+Here is the link to view: https://ctaan.github.io/Caroline-personal-website/index.html
+
+Any feedback is always appreciated! Thank you.
+
 **note: **Further functionality to be added once I gain more advanced skills and can incorporate JS. Simple design is for initial website, design improvements and content continue to be a work in progress.
